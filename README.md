@@ -9,6 +9,8 @@ If the user types "Exit" instead of a state, the game closes and a csv file call
 if the user clicks ' cancel' Or 'X', the game is stopped and no csv file is generated
 
 
+![0916 (1)](https://github.com/user-attachments/assets/05745fb3-882b-4a23-a4c8-5fc79024b72c)
+
 ## Installation Guide
 ### 1. Clone the Repository
 Clone the repository using Git:
